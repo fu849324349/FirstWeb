@@ -1,0 +1,32 @@
+.jia
+{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.outBigDiv
+{
+	width: 1040px;
+	height: 540px;
+	border: 1px solid black;
+	/*background-color: #ebfdf7;*/
+}
+.inBigDivOne
+{
+    width: 100%;
+    height: 100%;
+}
+.outBigDiv1
+{
+	width: 100%;
+	height: 100%;
+	display: flex;
+    flex-direction: column;
+}
+.table1
+{
+	width: 100%;
+	height: 100%;
+}

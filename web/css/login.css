@@ -1,0 +1,70 @@
+body
+{
+	background-image: url(../img/loginBgImg.jpg);
+	background-size: cover;
+}
+#loginTitle
+{
+	width: 335px;
+	height: 100px;
+	margin-top: 170px;
+	margin-left: 150px;
+}
+#loginTitle span
+{
+	font-family: "bradley hand itc";
+	font-size: 50px;
+	color: #f3f2e3;
+	
+}
+#logininput
+{
+	width: 335px;
+	height: 320px;
+}
+table
+{
+	height: 300px;
+	position: absolute;
+	left: 620px;
+	top: 258px;
+}
+td span
+{
+	font-size: 25px;
+	color: #f3f2e3;
+	
+}
+#username
+{
+	width: 200px;
+	height: 40px;
+	text-align: center;
+	opacity: 0.6;
+	border-radius: 10px;
+}
+#passW
+{
+	width: 200px;
+	height: 40px;
+	text-align: center;
+	opacity: 0.6;
+	border-radius: 10px;
+}
+#loginButton
+{
+	width: 120px;
+	height: 30px;
+	margin-left: 25px;
+	border-radius: 8px;
+	border: none;
+}
+#loginButton:hover
+{
+	background-color: darkcyan;
+	color: whitesmoke;
+}
+#buttonOne
+{
+	text-align: center;
+}

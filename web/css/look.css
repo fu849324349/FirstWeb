@@ -1,0 +1,103 @@
+#welcome
+{
+    width: 100%;
+    height: 100px;
+    /*background-color: darkkhaki;*/
+    text-align: center;
+    font-size: 65px;
+}
+#manage
+{
+    width: 16%;
+    height: 100%;
+    /*background-color: rgba(166,157,165,0.3);*/
+    border: 1px solid black;
+    display: inline-block;
+}
+#userAndManage
+{
+    width: 100%;
+    height: 50px;
+    font-size: 30px;
+    color: #2b102dba;
+    text-align: center;
+    margin-top: 50px;
+}
+#menu ul
+{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+#menu ul li
+{
+    margin-top: 5px;
+    border: 1px solid black;
+    list-style:none;
+    height: 50px;
+    width: 200px;
+    line-height: 50px;
+    /*color: #2b102dba;*/
+}
+.commodity
+{
+    width: 84%;
+    height: 100%;
+    /*background-color: antiquewhite;*/
+    overflow:scroll;
+    position: relative;
+    text-align: center;
+}
+
+table tr
+{
+    width: 96px;
+    height: 86px;
+}
+th
+{
+    width: 90px;
+    height: 50px;
+}
+.commodityId
+{
+    width: 30px;
+}
+.dateOne
+{
+    width: 40px;
+}
+.imgDetails
+{
+    width: 100px;
+}
+.imgDetails img
+{
+    text-align: center;
+    width: 32px;
+    height: 32px;
+}
+.commodityTitle
+{
+    height: 110px;
+    overflow:scroll;
+}
+td
+{
+    height: 106px;
+    text-align: center;
+}
+.revamp
+{
+    width: 55px;
+    height: 20px;
+    /*background-color: darkorange;*/
+    border-radius: 5px;
+}
+.delete
+{
+    width: 55px;
+    height: 20px;
+    /*background-color: firebrick;*/
+    border-radius: 5px;
+}
